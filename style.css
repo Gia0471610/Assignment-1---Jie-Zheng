@@ -1,11 +1,13 @@
 body {
     background-color:rgb(108, 156, 156);
-    font-family: Arial;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:15px;
+    text-align:center
 }
 
 h1{
     color: brown;
-    letter-spacing: 6px;
+    letter-spacing: 10px;
     text-decoration: underline;
 }
 
